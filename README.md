@@ -1,2 +1,2 @@
-# Jerry_owner
+# RepoClass
 Repositorio de mi primera experiencia
